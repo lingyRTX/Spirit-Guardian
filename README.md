@@ -1,17 +1,17 @@
 # Spirit-Guardian
-Русский:
-[Регистрация аккаунта с игры](#регистрация-аккаунта-с-игры)
-[Команды для общения и развлечения](#команды-для-общения-и-развлечения)
-[Управление игровыми событиями](#управление-игровыми-событиями)
-[Управление профилем пользователя](#управление-профилем-пользователя)
-[Магазин](#магазин)
+Русский:<br />
+[Регистрация аккаунта с игры](#регистрация-аккаунта-с-игры) <br />
+[Команды для общения и развлечения](#команды-для-общения-и-развлечения) <br />
+[Управление игровыми событиями](#управление-игровыми-событиями) <br />
+[Управление профилем пользователя](#управление-профилем-пользователя) <br />
+[Магазин](#магазин) <br />
 
-English:
-[Account Registration from the Game](#account-registration-from-the-game)
-[Communication and Entertainment Commands](#communication-and-entertainment-commands)
-[Managing Game Events](#managing-game-events)
-[User Profile Management](#user-profile-management)
-[Shop](#shop)
+English:<br />
+[Account Registration from the Game](#account-registration-from-the-game)<br />
+[Communication and Entertainment Commands](#communication-and-entertainment-commands)<br />
+[Managing Game Events](#managing-game-events)<br />
+[User Profile Management](#user-profile-management)<br />
+[Shop](#shop)<br />
 
 ## Регистрация аккаунта с игры:
 
